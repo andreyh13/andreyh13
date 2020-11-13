@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there, I'm Andriy 👋
+
+**Full stack developer at Intermodal Telematics SL.**
 
 <!--
 **andreyh13/andreyh13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
