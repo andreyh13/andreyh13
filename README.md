@@ -2,7 +2,7 @@
 
 **Full stack developer at Intermodal Telematics SL.**
 
-Focused on the GIS systems, assset tracking solutions and Enterprise integration patterns.
+Focused on the GIS systems, asset tracking solutions and Enterprise integration patterns.
 
 #### Technology stack:
 
