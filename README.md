@@ -2,6 +2,8 @@
 
 **Full stack developer at Intermodal Telematics SL.**
 
+Focused on the GIS systems, assset tracking solutions and Enterprise integration patterns.
+
 #### Technology stack:
 
 <img align="left" alt="Java" width="64" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
@@ -15,9 +17,6 @@
 <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" width="48" height="48" alt="ReactJs" />
 <img align="left" alt="Google Maps Platform" src="https://developers.google.com/maps/images/maps-icon.svg" width="48" height="48" />
 <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" width="48" height="48" alt="MySQL" />
-
-#### 
-
 <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" width="48" height="48" alt="MongoDb" /> 
 <img align="left" src="https://www.gstatic.com/devrel-devsite/prod/v8ea8343deca3e735c5e491f22b0e2533427dcd1d0302777baea2667771626911/cloud/images/cloud-logo.svg?dcb_=0.06474479262002486" width="139" height="32" alt="Google Cloud" />
 
